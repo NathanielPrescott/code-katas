@@ -9,6 +9,5 @@ The goal of this program is for a customer to add multiple phones and accessorie
 - Give the customer multiple phones with different prices to choose from
 - Give the customer multiple accessories with different prices to choose from
 - The customer should have a max credit limit which they cannot exceed with their purchases
-- When the customer is ready, add their cart together and then calculate the tax so that they can view the total (this should not exceed their credit limit
+- When the customer is ready, add their cart together and then calculate the tax so that they can view the total (this should not exceed their credit limit)
 
-Just a simple kata to get people started working in HTML, CSS, and Javascript.  But you can complete in any language you wish to.
